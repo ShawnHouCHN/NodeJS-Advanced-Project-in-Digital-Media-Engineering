@@ -16,12 +16,12 @@
     "ejs": "^2.5.7",
     "d3": "^4.10.2",
     "express": "^4.15.4",
-    "jsdom": "^11.2.0",
+    "jsdom": "~3.1.2",
     "mapbox": "^1.0.0-beta9"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/ShawnHouCHN/NodeJS-Advanced-Project-in-Digital-Media-Engineering"
   }
-  
+
 }
